@@ -1,1 +1,3 @@
-Informatics Institute Of Technology
+Informatics Institute of Technology
+Hello !!!
+Welcome to GitHub Desktop !
